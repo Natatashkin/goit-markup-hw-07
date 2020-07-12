@@ -532,6 +532,7 @@ label[for="email"] {
   -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  color: rgba(255, 255, 255, 0.6);
   -webkit-transition-property: border-color;
   transition-property: border-color;
   -webkit-transition-duration: 250ms;

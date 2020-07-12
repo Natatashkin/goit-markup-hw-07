@@ -17,6 +17,8 @@ label[for="email"] {
   box-shadow: $button-shadow;
   border-radius: 4px;
 
+  color: $text-footer-secondary;
+
   @include transitionProperty(border-color);
 
   &:focus,
